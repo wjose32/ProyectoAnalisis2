@@ -9,13 +9,11 @@ package Analisis2.Proyecto.TransferObject;
  *
  * @author WELLINGTON
  */
-public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        LlamarFormularios.llamarNuevoUsuario();
+public class LlamarFormularios {
+    
+    public static void llamarNuevoUsuario(){
+        NuevoUsuario cp = new NuevoUsuario();
+        cp.setVisible(true);
     }
     
 }
