@@ -1,10 +1,8 @@
-# ProyectoAnalisis2
-Alumnos:
+#Proyecto Analisis 2
 
-  Wellington José Eduardo Cuá Gutierrrez
-  Carné: 1511612
-  Usuario Github: wjose32
-  
-  Pedro Luis Velásquez Moreno
-  Carné: 1505513
-  Usuario Github: ptrvela
+#Autores:
+
+| NOMBRE | CARNÉ | USUARIO |
+| ------ | ------ | ------ |
+| Wellington José Eduardo Cuá Gutierrrez | 1511612 | wjose32|
+| Pedro Luis Velásquez Moreno | 1505513 | ptrvela|
