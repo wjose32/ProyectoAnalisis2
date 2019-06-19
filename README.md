@@ -1,6 +1,6 @@
-#Proyecto Analisis 2
+# Proyecto Analisis 2
 
-#Autores:
+# Autores:
 
 | NOMBRE | CARNÉ | USUARIO |
 | ------ | ------ | ------ |
